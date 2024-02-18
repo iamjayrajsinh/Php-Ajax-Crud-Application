@@ -1,4 +1,4 @@
-## CRUD Application (PHP + AJAX,MYSQL) [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+## CRUD Application [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 Hey Guys , This is a CRUD (Create,Read,Update,Delete) Application Which is made using PHP + Ajax & Mysql.
 
 
